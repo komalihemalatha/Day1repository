@@ -5,3 +5,6 @@ Dennis Richard
   Dennis Richard phn number:878686767699
   
 C++ is an extension of C
+  C is the first langauge
+It was invented in early 90's
+
